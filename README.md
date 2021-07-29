@@ -1,5 +1,13 @@
-loging by typing username and password:
+Credentials for the following user level:
 
-Administrator	Special User	Default User
-Username : admin	Username : special	Username : user
-Password : admin	Password : special	Password : user
+Administrator		
+Username : admin	
+Password : admin		
+
+Special User
+Username : special
+Password : special
+
+Default User
+Username : user
+Password : user
